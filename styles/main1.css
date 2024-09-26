@@ -44,14 +44,14 @@ div {
     margin: 1.5em 2em 0em 2em;
     border: 5px dotted teal;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
+    box-shadow: 3px 3px 4px 4px darkcyan;
     padding: 1em;
 }
 main h3 {
     margin: 1.5em 2em 1.5em;
     border: 5px dashed teal;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px orange;
+    box-shadow: 3px 3px 4px 4px darkcyan;
     padding: 0.5em 0.5em 0.5em 0.5em;
     font-size: 105%;
 }
@@ -59,7 +59,7 @@ main nav{
     margin: 1.5em 2em 1.5em;
     border: 5px dashed teal;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
+    box-shadow: 3px 3px 4px 4px darkcyan;
     padding: 0.5em;
 }
 #list {
