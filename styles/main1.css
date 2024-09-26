@@ -12,7 +12,7 @@ body {
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
     background-image: url("../images/cat.jpg") 
-    repeat-y fixed center right; 
+    repeat-y fixed right; 
     
 }
 a:focus, a:hover {
