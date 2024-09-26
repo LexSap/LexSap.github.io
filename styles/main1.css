@@ -46,6 +46,7 @@ div {
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px darkcyan;
     padding: 1em;
+    
 }
 main h3 {
     margin: 1.5em 2em 1.5em;
@@ -54,6 +55,7 @@ main h3 {
     box-shadow: 3px 3px 4px 4px darkcyan;
     padding: 0.5em 0.5em 0.5em 0.5em;
     font-size: 105%;
+    
 }
 main nav{
     margin: 1.5em 2em 1.5em;
