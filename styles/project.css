@@ -75,3 +75,9 @@ footer {
     text-align: center;
     font-size: 80%;
 }
+
+body p.fixed {
+    width: 20%;
+    float: bottom;
+    background-color: lightgreen;
+}
