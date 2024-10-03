@@ -71,7 +71,7 @@ footer {
     border-top: 2px solid maroon;
 }
 
- footer p.fixed {
+ footer p.copyright {
     text-align: center;
     font-size: 80%;
 }
