@@ -67,12 +67,9 @@ aside {
     padding-bottom: 3px;
 
 }
-footer {
+footer p.fixed {
     clear: both;
     border-top: 2px solid maroon;
+    width: auto;
     
-}
-footer p.fixed {
-    text-align: center;
-    font-size: 80%;
 }
