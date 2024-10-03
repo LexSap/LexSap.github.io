@@ -81,4 +81,5 @@ body p.fixed {
     float: right;
     background-color: lightgreen;
     padding: 15px;
+    border: 5 bold black
 }
