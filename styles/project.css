@@ -80,6 +80,7 @@ body p.fixed {
     width: 20%;
     position: fixed;
     bottom: 100px;
+    right: 50px;
     background-color: lightgreen;
     padding: 15px;
     border: 5 bold black
