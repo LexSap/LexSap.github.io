@@ -70,4 +70,9 @@ aside {
 footer {
     clear: both;
     border-top: 2px solid maroon;
+    
+}
+footer p.fixed {
+    text-align: center;
+    font-size: 80%;
 }
