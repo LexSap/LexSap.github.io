@@ -78,6 +78,6 @@ footer {
 
 body p.fixed {
     width: 20%;
-    float: bottom;
+    float: right;
     background-color: lightgreen;
 }
