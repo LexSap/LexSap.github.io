@@ -19,6 +19,12 @@ a:focus, a:hover {
     border: 3px blue;
     border-style: dotted solid;
 }
+header {
+    border-bottom: 2px solid maroon;
+}
+h2 {
+    padding: 1em;
+}
 header h1 {
     font-size :175%;
     color: maroon;
@@ -46,9 +52,7 @@ article{
     margin-left: 2em;
 }
 article h3{
-    margin-top: 5px;
-    border-top: 1px solid maroon;
-    padding: 10px;
+    
     column-span: all;
 }
 article img {
