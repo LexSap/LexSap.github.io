@@ -48,7 +48,7 @@ article{
 article h3{
     margin-top: 5px;
     border-top: 1px solid maroon;
-    padding: 5px;
+    padding: 10px;
     column-span: all;
 }
 article img {
