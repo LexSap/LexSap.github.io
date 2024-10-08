@@ -46,7 +46,8 @@ article{
     margin-left: 2em;
 }
 article h3{
-    
+    margin-top: 5px;
+    border-top: 5px solid black;
     column-span: all;
 }
 article img {
@@ -85,5 +86,5 @@ body p.fixed {
     right: 65px;
     background-color: lightgreen;
     padding: 25px;
-    border: 5px solid black;
+    border: 3px solid black;
 }
