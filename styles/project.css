@@ -88,8 +88,8 @@ body p.fixed {
     width: auto;
     position: fixed;
     bottom: 200px;
-    right: 65px;
-    background-color: lightgreen;
+    right: 55px;
+    background-color: lightsteelblue;
     padding: 25px;
-    border: 2px solid black;
+    border: 2px solid lightslategrey;
 }
