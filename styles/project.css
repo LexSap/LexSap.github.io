@@ -46,7 +46,7 @@ article{
     margin-left: 2em;
 }
 article h3{
-    border-top: 2px bold maroon;
+    
     column-span: all;
 }
 article img {
@@ -78,10 +78,12 @@ footer {
 }
 
 body p.fixed {
+    margin: 0 20px 10px;
     width: auto;
     position: fixed;
     bottom: 200px;
     right: 65px;
     background-color: lightgreen;
     padding: 25px;
+    border: 1px solid black;
 }
