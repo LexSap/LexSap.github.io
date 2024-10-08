@@ -80,8 +80,8 @@ body p.fixed {
     width: auto;
     position: fixed;
     bottom: 350px;
-    right: 53px;
+    right: 60px;
     background-color: lightgreen;
-    padding: 15px;
-    border: 5px bold black
+    padding: 25px;
+    border: 10px bold black
 }
