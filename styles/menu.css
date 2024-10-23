@@ -15,7 +15,7 @@ border-right: 2px solid white; }
 #nav_menu ul li a.current { color: yellow; }
 
 article h1 {
-    float: right;
+    float:inline-end;
 }
 aside ol {
     list-style-type: upper-roman;
