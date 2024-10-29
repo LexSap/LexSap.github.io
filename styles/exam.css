@@ -17,6 +17,7 @@ border-right: 2px solid white; }
 
 
 article {
+    padding-left: 20px;
     column-count: 3;
     column-gap: 15px;
     column-rule: 2px dashed blue;
