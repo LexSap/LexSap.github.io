@@ -31,6 +31,13 @@ article h1 {
     padding-top: 10px;
 }
 
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: lightsteelblue;
+}
+
 body {
     background-image: url("../images/dimondpxart.png");
     background-repeat: repeat-y;
