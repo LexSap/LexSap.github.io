@@ -21,3 +21,10 @@ article {
     column-gap: 15px;
     column-rule: 2px dashed blue;
 }
+
+body {
+    background-image: url("../images/dimondpxart.png");
+    background-repeat: repeat-y;
+    background-position: right;
+    background-attachment: fixed;
+}
