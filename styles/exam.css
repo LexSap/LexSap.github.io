@@ -35,6 +35,9 @@ article img {
     float: left;
 }
 
+article p {
+    padding: 5px;
+}
 article p::first-letter {
     font-size: 3em;
     font-weight: bold;
