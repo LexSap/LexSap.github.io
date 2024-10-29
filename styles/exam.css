@@ -22,6 +22,10 @@ article {
     column-rule: 2px dashed blue;
 }
 
+article h1 {
+    padding-top: 50px;
+}
+
 body {
     background-image: url("../images/dimondpxart.png");
     background-repeat: repeat-y;
