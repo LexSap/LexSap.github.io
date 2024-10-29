@@ -36,7 +36,7 @@ article img {
 }
 
 article p {
-    padding: 5px;
+    padding-left: 10px;
 }
 article p::first-letter {
     font-size: 3em;
