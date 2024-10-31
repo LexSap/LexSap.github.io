@@ -32,7 +32,6 @@ table.second th, table.second td {
 table.third th, table.second td{
     padding: .7em;
     vertical-align: top;
-    border-top: 1px solid black;
 }
 table.third thead tr:first-child { 
     border-top: 2px solid orangered;}
