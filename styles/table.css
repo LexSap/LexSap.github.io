@@ -28,12 +28,14 @@ table.second th, table.second td {
     border: 2px solid purple;
 }
 
+
 table.third th, table.second td{
     padding: .7em;
-    vertical-align: middle;
+    vertical-align: top;
     border-top: 1px solid black;
 }
-
+table.third thead tr:first-child { 
+    border-top: 2px solid orangered;}
 
 @media only screen and (max-width: 425px) {
     th, td {
