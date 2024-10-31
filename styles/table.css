@@ -5,7 +5,7 @@ table.first {
 table.first th, table.first td {
     border: 2px solid blue;
 }
-table.first tr:nthchild(odd) {
+table.first tr:nth-child(odd) {
     background-color: lightblue;
 }
 
