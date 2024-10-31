@@ -27,3 +27,9 @@ table.second th, table.second td {
     vertical-align: middle;
     border: 2px solid purple;
 }
+
+table.third th, table.second td{
+    padding: .7em;
+    vertical-align: middle;
+    border-top: 1px solid black;
+}
