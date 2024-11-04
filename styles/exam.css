@@ -80,7 +80,6 @@ aside {
     padding-left: 10px;
     padding-bottom: 3px;
     position: fixed;
-    top: 50%;
     transform: translateY(-50%);
 
 }
