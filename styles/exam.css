@@ -75,12 +75,13 @@ body {
 
 aside {
     width: 20%;
-    float: right;
     background-color: #ffebc6;
     padding-left: 10px;
     padding-bottom: 3px;
+    top: 50%;
     position: fixed;
     transform: translateY(-50%);
+    left: 0%;
 
 }
 aside ol {
