@@ -31,8 +31,8 @@ article {
     column-count: 3;
     column-gap: 15px;
     column-rule: 3px dashed blue;
+    border-top: 3px solid blue;
     padding-top: 10px;
-    
 }
 
 article h1 {
