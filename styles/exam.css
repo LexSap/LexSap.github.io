@@ -76,6 +76,7 @@ body {
     background-repeat: repeat-y;
     background-position: right;
     background-attachment: fixed;
+    padding-bottom: 10px;
     
 }
 
