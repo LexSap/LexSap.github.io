@@ -111,3 +111,11 @@ footer p.copyright {
     text-align: center;
     font-size: 80%;
 }
+
+a { 
+    color: blue;
+}
+
+a:visited {
+    color: rgb(49, 0, 128)
+}
