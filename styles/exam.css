@@ -15,7 +15,10 @@ text-decoration: none;
 background-color: blue;
 color: white;
 font-weight: bold;
-border-right: 2px solid white; }
+border-right: 2px solid white; 
+border-top: 2px solid blue;
+}
+
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
 
@@ -27,7 +30,7 @@ article {
     column-gap: 15px;
     column-rule: 3px dashed blue;
     padding-top: 10px;
-    border-top: 2px solid blue;
+    
 }
 
 article h1 {
