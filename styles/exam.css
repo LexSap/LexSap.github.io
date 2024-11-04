@@ -11,6 +11,7 @@ text-align: center;
 display: block;
 width: 175px;
 padding: 1em 0;
+border-bottom: 2px solid blue
 padding-bottom: 1em;
 
 text-decoration: none;
@@ -22,6 +23,7 @@ border-top: 2px solid blue;
 }
 
 #nav_menu ul li a.lastitem { border-right: none; }
+
 #nav_menu ul li a.current { color: yellow; }
 
 
@@ -31,7 +33,7 @@ article {
     column-count: 3;
     column-gap: 15px;
     column-rule: 3px dashed blue;
-    border-top: 3px solid blue;
+
     padding-top: 10px;
 }
 
@@ -85,8 +87,7 @@ aside {
     top: 50%;
     position: fixed;
     transform: translateY(-50%);
-    left: 0%;
-    margin-right: 20px;
+    float: left;
 }
 
 aside ol {
