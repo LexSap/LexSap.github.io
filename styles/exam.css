@@ -81,13 +81,10 @@ body {
 
 aside {
     width: 20%;
-    background-color: #ffebc6;
-    padding-left: 10px;
-    padding-bottom: 3px;
-    top: 50%;
-    position: fixed;
-    transform: translateY(50%);
+    background-color: #c6e5ff;
     float: right;
+    padding: 10px;
+    margin: 10px;
 }
 
 aside ol {
