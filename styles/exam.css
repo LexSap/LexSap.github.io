@@ -20,6 +20,7 @@ color: white;
 font-weight: bold;
 border-right: 2px solid white; 
 border-top: 2px solid blue;
+margin-bottom: 20px;
 }
 
 #nav_menu ul li a.lastitem { border-right: none; }
@@ -33,7 +34,7 @@ article {
     column-count: 3;
     column-gap: 15px;
     column-rule: 3px dashed blue;
-
+    border-top: 2px solid blue;
     padding-top: 30px;
 }
 
