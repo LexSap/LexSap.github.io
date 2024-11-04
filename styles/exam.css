@@ -82,7 +82,7 @@ aside {
     position: fixed;
     transform: translateY(-50%);
     left: 0%;
-
+    margin-right: 20px;
 }
 aside ol {
     list-style-type: upper-roman;
