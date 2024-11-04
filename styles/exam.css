@@ -82,9 +82,11 @@ body {
 aside {
     width: 20%;
     background-color: #c6e5ff;
-    float: right;
+    top: 50%;
+    right: 10px;
     padding: 10px;
     margin: 10px;
+    
 }
 
 aside ol {
