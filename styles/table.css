@@ -37,8 +37,8 @@ table.third {
 }
 
 table.third th, table.third td {
-
     vertical-align: middle;
+    border-bottom: 2px solid pink;
 }
 
 @media only screen and (max-width: 425px) {
