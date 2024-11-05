@@ -34,6 +34,7 @@ table.third th{
 
 table.third {
     caption-side: top;
+    border-top: 2px solid pink;
     border-bottom: 2px solid pink;
 }
 
