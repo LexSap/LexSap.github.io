@@ -29,7 +29,7 @@ table.second th, table.second td {
 }
 
 table.third th{
-    background-color: green;
+    background-color: rgb(40, 163, 112);
 }
 
 table.third {
@@ -37,7 +37,7 @@ table.third {
 }
 
 table.third th, table.third td {
-    padding: .7em;
+
     vertical-align: middle;
 }
 
