@@ -33,7 +33,6 @@ table.third th{
 }
 
 table.third {
-    background-color: rgb(50, 221, 150);
     caption-side: top;
     border-top: 2px solid pink;
     border-bottom: 2px solid pink;
