@@ -29,10 +29,11 @@ table.second th, table.second td {
 }
 
 table.third th{
-    background-color: rgb(40, 163, 112);
+    background-color: rgb(50, 221, 150);
 }
 
 table.third {
+    background-color: rgb(50, 221, 150);
     caption-side: top;
     border-top: 2px solid pink;
     border-bottom: 2px solid pink;
