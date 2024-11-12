@@ -19,7 +19,7 @@ background-color: blue;
 color: white;
 font-weight: bold;
 border-right: 2px solid white; 
-border-top: 2px solid blue;
+border-top: 3px solid blue;
 margin-bottom: 20px;
 }
 
@@ -35,7 +35,7 @@ article {
     column-gap: 15px;
     column-rule: 3px dashed blue;
     border-top: 2px solid blue;
-    padding-top: 30px;
+    padding-top: 30px; 
 }
 
 article h1 {
