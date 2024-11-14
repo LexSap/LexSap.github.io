@@ -34,7 +34,7 @@ table.third {
   
 table.third caption {
     caption-side: top;
-    background-color: green;
+    background-color: rgb(32, 194, 32);
     font-weight: bold;
     border-top: 2px solid salmon;
     border-bottom: 2px solid salmon;
@@ -42,7 +42,7 @@ table.third caption {
 }
   
 table.third th {
-    background-color: green;
+    background-color: rgb(32, 194, 32);
     border-bottom: 2px solid salmon;
     padding: 10px;
 }
