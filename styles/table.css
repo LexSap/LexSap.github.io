@@ -29,7 +29,6 @@ table.second th, table.second td {
 }
 
 .third {
-    width: 100%;
     border-collapse: collapse;
   }
   
@@ -37,15 +36,14 @@ table.second th, table.second td {
     caption-side: top;
     color: green;
     font-weight: bold;
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
+    border-top: 2px solid salmon;
+    border-bottom: 2px solid salmon;
     padding: 5px;
   }
   
   .third th {
     background-color: green;
-    color: white;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid salmon;
     padding: 10px;
   }
   
@@ -53,18 +51,7 @@ table.second th, table.second td {
     text-align: left;
     padding: 8px;
   }
-  
-  .third tr:nth-child(even) {
-    background-color: #f2f2f2;
-  }
-  
-  .third tr td {
-    border: 1px solid #ddd;
-  }
-  
-  .third tr:first-of-type th {
-    border: none;
-  }
+ 
   
 
 @media only screen and (max-width: 425px) {
