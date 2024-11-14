@@ -34,7 +34,7 @@ table.third {
   
 table.third caption {
     caption-side: top;
-    color: green;
+    background-color: green;
     font-weight: bold;
     border-top: 2px solid salmon;
     border-bottom: 2px solid salmon;
