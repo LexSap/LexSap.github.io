@@ -49,6 +49,7 @@ table.third th {
 .third td {
     vertical-align: top;
     padding: 8px;
+    border-bottom: salmon;
 }
   
 table.third th, .third td {
