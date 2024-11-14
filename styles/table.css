@@ -28,29 +28,33 @@ table.second th, table.second td {
     border: 2px solid purple;
 }
 
-.third {
+table.third {
     border-collapse: collapse;
-  }
+}
   
-  .third caption {
+table.third caption {
     caption-side: top;
     color: green;
     font-weight: bold;
     border-top: 2px solid salmon;
     border-bottom: 2px solid salmon;
     padding: 5px;
-  }
+}
   
-  .third th {
+table.third th {
     background-color: green;
     border-bottom: 2px solid salmon;
     padding: 10px;
-  }
+}
+.third td {
+    vertical-align: top;
+    padding: 8px;
+}
   
-  .third th, .third td {
+table.third th, .third td {
     text-align: left;
     padding: 8px;
-  }
+}
  
   
 
