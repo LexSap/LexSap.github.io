@@ -28,20 +28,44 @@ table.second th, table.second td {
     border: 2px solid purple;
 }
 
-table.third th{
-    background-color: rgb(50, 221, 150);
-}
-
-table.third {
+.third {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .third caption {
     caption-side: top;
-    border-top: 2px solid pink;
-    border-bottom: 2px solid pink;
-}
-
-table.third th, table.third td {
-    vertical-align: middle;
-    
-}
+    color: green;
+    font-weight: bold;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 5px;
+  }
+  
+  .third th {
+    background-color: green;
+    color: white;
+    border-bottom: 2px solid black;
+    padding: 10px;
+  }
+  
+  .third th, .third td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .third tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .third tr td {
+    border: 1px solid #ddd;
+  }
+  
+  .third tr:first-of-type th {
+    border: none;
+  }
+  
 
 @media only screen and (max-width: 425px) {
     th, td {
