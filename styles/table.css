@@ -52,7 +52,7 @@ table.third th {
 }
   
 table.third th, .third td {
-    text-align: left;
+    text-align: center;
     padding: 8px;
 }
  
