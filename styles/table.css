@@ -30,6 +30,7 @@ table.second th, table.second td {
 
 table.third {
     border-collapse: collapse;
+    border-bottom: 2px solid salmon;
 }
   
 table.third caption {
@@ -49,7 +50,6 @@ table.third th {
 .third td {
     vertical-align: top;
     padding: 8px;
-    border-bottom: 2px solid salmon;
 }
   
 table.third th, .third td {
