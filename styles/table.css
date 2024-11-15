@@ -49,14 +49,12 @@ table.third th {
 .third td {
     vertical-align: top;
     padding: 8px;
-    border-bottom: salmon;
+    border-bottom: 2px solid salmon;
 }
   
 table.third th, .third td {
     text-align: center;
     padding: 5px;
-    border-bottom: salmon;
-
 }
  
   
