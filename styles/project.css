@@ -89,7 +89,7 @@ body p.fixed {
     position: fixed;
     bottom: 200px;
     right: 35px;
-    background-color: lightsteelblue;
+    background-color: lightslategray;
     padding: 25px;
-    border: 2px solid lightslategrey;
+    border: 2px solid lightslategray;
 }
